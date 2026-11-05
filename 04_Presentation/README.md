@@ -40,7 +40,7 @@
 9. **Slide 9: Dynamic Dual-Mode Architecture** — Mode A (1-Click Demo Presets) & Mode B (Custom CSV Upload).
 10. **Slide 10: Web SaaS App Platform** — 10 SPA Pages, FastAPI REST API, Real CSV Download.
 11. **Slide 11: BI Analytics Portal** — Streamlit, Plotly Sunburst & Waterfall Drivers.
-12. **Slide 12: Business ROI & Q&A** — Key Takeaways & Defense Q&A.
+12. **Slide 12: Business ROI & Q&A** — Key Takeaways & Defense Q&A .
 
 ---
 
