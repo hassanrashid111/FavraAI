@@ -270,12 +270,12 @@ Demand Forecasting System Backup/
 ├── 03_Streamlit/                   # BI Streamlit Portal
 │   └── app.py                      # Interactive Streamlit Application
 │
-├── 04_Presentation/                # Capstone Presentation Deck, Slides & Demo Scripts
+├── 04_Presentation/                # Capstone Presentation Deck,Slides & Demo Scripts
 ├── 05_Docs/                        # Project Documentation & Per-Notebook READMEs
 ├── logo/                           # FavraAI Brand Assets & Logos
 ├── config.py                       # Master Configuration File
 ├── utils.py                        # High-Performance Data Infrastructure Utilities
-├── requirements.txt                # Python Dependencies List
+├── requirements.txt                # Python Dependencies  List
 └── README.md                       # Master Repository Overview (This Document)
 ```
 
